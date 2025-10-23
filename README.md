@@ -1,8 +1,18 @@
 # 👋 Hola, soy Oswaldo Antonio Choc Cuteres
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Ingeniero+en+Ciencias+y+Sistemas;Universidad+de+San+Carlos+de+Guatemala;Desarrollador+Full+Stack;Apasionado+por+la+Tecnolog%C3%ADa" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Ingeniero+en+Ciencias+y+Sistemas;Universidad+de+San+Carlos+de+Guatemala;Desarrollador+Full+Stack;Docente+de+Computaci%C3%B3n+y+Matem%C3%A1ticas;Apasionado+por+la+Tecnolog%C3%ADa" alt="Typing SVG" />
 </div>
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oswaldo-choc)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Oswaldo052001)
+
+</div>
+
+---
 
 ## 🎓 Sobre Mí
 
@@ -16,23 +26,48 @@ const oswaldo = {
         semestre: "7mo Semestre",
         estado: "Cursando"
     },
+experienciaProfesional: {
+    docente: {
+        descripcion: "4 años como docente (Matemática, Física y Computación simultáneamente)",
+        areas: ["Matemática Fundamental", "Física Fundamental", "Computación"],
+            habilidades: [
+                "Comunicación efectiva",
+                "Explicación de conceptos técnicos",
+                "Trabajo con grupos diversos",
+                "Paciencia y didáctica"
+            ]
+        }
+    },
     intereses: [
         "Desarrollo de Software",
         "Bases de Datos",
         "Arquitectura de Sistemas",
-        "Implementación de Soluciones Tecnológicas"
+        "Implementación de Soluciones Tecnológicas",
+        "Educación Tecnológica"
     ],
-    objetivoActual: "Servicios Técnicos - Implementador en IGSS"
+    fortaleza: "Combino conocimientos técnicos con habilidades de comunicación"
 };
 ```
 
-## 💼 Experiencia Académica
+## 💼 Experiencia
 
-🎯 **Proyectos Universitarios Destacados**
-- Desarrollo de sistemas empresariales
-- Implementación de bases de datos relacionales
-- Aplicaciones web full-stack
-- Proyectos de análisis y diseño de sistemas
+### 👨‍🏫 Experiencia Docente
+**4 años de experiencia enseñando** - Durante este periodo impartí clases de:
+- 🎯 **Comunicación efectiva** para explicar conceptos técnicos complejos
+- 👥 **Trabajo en equipo** y colaboración con personas de diferentes perfiles
+- 📚 **Documentación clara** y materiales didácticos
+- 🧩 **Resolución de problemas** adaptándome a diferentes estilos de aprendizaje
+- ⏱️ **Gestión de tiempo** y organización de múltiples proyectos
+
+**Áreas de enseñanza (simultáneamente durante 4 años):**
+- Matemática Fundamental
+- Física Fundamental  
+- Computación
+
+### 🎓 Proyectos Universitarios
+Desarrollo constante de proyectos académicos en la USAC aplicando metodologías profesionales y tecnologías actuales.
+
+---
 
 ## 🛠️ Stack Tecnológico
 
@@ -63,6 +98,8 @@ const oswaldo = {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+---
+
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
@@ -71,70 +108,234 @@ const oswaldo = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oswaldo052001&theme=tokyonight" alt="Oswaldo's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oswaldo052001&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-## 🚀 Proyectos Destacados
+---
 
-### 🏛️ Proyectos Universitarios USAC
+## 🚀 Proyectos Destacados - USAC
 
-#### 📚 Organización y Lenguajes de Computadoras 2 (OLC2)
-Desarrollo de compiladores, intérpretes y análisis léxico-sintáctico.
+### 🏛️ Cursos y Áreas de Desarrollo
 
-#### 🗄️ Manejo e Implementación de Archivos (MIA)
-Sistemas de gestión de archivos, estructuras de datos avanzadas y manejo de almacenamiento.
+<table>
+<tr>
+<td width="50%">
 
-#### 🔄 Redes de Computadoras 1 (REDES1)
-Implementación de protocolos de red, simulaciones y configuración de redes.
+#### 📚 OLC2 - Organización y Lenguajes de Computadoras 2
+Desarrollo de **compiladores e intérpretes**
+- Análisis léxico y sintáctico
+- Generación de código
+- Optimización de compiladores
+- Manejo de errores y excepciones
 
-#### 🎯 Análisis y Diseño de Sistemas 1 (AYD1)
-Desarrollo de sistemas empresariales completos con metodologías ágiles.
+</td>
+<td width="50%">
 
-#### 🔐 Administración de Bases de Datos 1 (BD1)
-Diseño, implementación y optimización de bases de datos relacionales.
+#### 🗄️ MIA - Manejo e Implementación de Archivos
+**Sistemas de gestión de archivos**
+- Estructuras de datos avanzadas
+- Árboles B+, Hash, AVL
+- Manejo eficiente de memoria
+- Simulación de sistemas de archivos
 
-#### 🏗️ Arquitectura de Computadoras y Ensambladores 1 (ACYE1)
-Programación en ensamblador y arquitectura de computadoras.
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🔄 REDES1 - Redes de Computadoras 1
+**Implementación y simulación de redes**
+- Protocolos TCP/IP
+- Configuración de redes
+- Análisis de tráfico
+- Topologías de red
+
+</td>
+<td width="50%">
+
+#### 🎯 AYD1 - Análisis y Diseño de Sistemas 1
+**Desarrollo de sistemas empresariales**
+- Metodología SCRUM
+- Diagramas UML completos
+- Arquitectura MVC
+- APIs RESTful
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🔐 BD1 - Administración de Bases de Datos 1
+**Diseño y optimización de BD**
+- Procedimientos almacenados
+- Triggers y funciones
+- Sistema de respaldos
+- Optimización de consultas
+
+</td>
+<td width="50%">
+
+#### 🏗️ ACYE1 - Arquitectura y Ensambladores 1
+**Programación de bajo nivel**
+- Lenguaje ensamblador
+- Arquitectura de computadoras
+- Optimización de código
+- Manejo de memoria
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 🎯 Áreas de Especialización
 
+<div align="center">
+
+| Área | Habilidades |
+|------|------------|
+| **Backend** | Java, Python, Node.js, Express, APIs REST |
+| **Frontend** | HTML5, CSS3, JavaScript, React |
+| **Bases de Datos** | MySQL, PostgreSQL, MongoDB, PL/SQL, Optimización |
+| **Metodologías** | SCRUM, Desarrollo Ágil, UML, Documentación |
+| **Implementación** | Despliegue, Configuración, Integración de Sistemas |
+| **Soft Skills** | Comunicación, Enseñanza, Trabajo en Equipo, Liderazgo |
+
+</div>
+
+---
+
+## 💡 ¿Por qué mi perfil es diferente?
+
 ```python
-habilidades = {
-    "Desarrollo_Backend": ["Java", "Python", "Node.js", "Express"],
-    "Desarrollo_Frontend": ["HTML5", "CSS3", "JavaScript", "React"],
-    "Bases_de_Datos": ["MySQL", "PostgreSQL", "MongoDB", "PL/SQL"],
-    "Metodologías": ["SCRUM", "Desarrollo Ágil", "UML"],
-    "Análisis_y_Diseño": ["Diagramas UML", "Casos de Uso", "Modelado de Datos"],
-    "Implementación": ["Despliegue de Aplicaciones", "Configuración de Servidores"],
-    "Control_de_Versiones": ["Git", "GitHub", "GitFlow"]
+ventaja_competitiva = {
+    "formacion_tecnica": [
+        "Estudiante de Ingeniería en Ciencias y Sistemas (USAC)",
+        "Proyectos prácticos en múltiples áreas",
+        "Stack tecnológico amplio y actualizado"
+    ],
+    "experiencia_profesional": [
+        "7 años como docente (Matemática, Física, Computación)",
+        "Capacidad de explicar conceptos técnicos complejos",
+        "Experiencia trabajando con equipos diversos"
+    ],
+    "habilidades_unicas": [
+        "Combino conocimientos técnicos con habilidades pedagógicas",
+        "Excelente comunicación con usuarios técnicos y no técnicos",
+        "Capacidad para crear documentación clara y efectiva",
+        "Experiencia en capacitación y transferencia de conocimiento"
+    ],
+    "valor_para_igss": [
+        "Implementación técnica + capacitación de usuarios",
+        "Soporte técnico con excelente comunicación",
+        "Documentación clara para diferentes audiencias",
+        "Facilitador entre equipos técnicos y operativos"
+    ]
 }
 ```
+
+---
 
 ## 📫 Conecta Conmigo
 
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Oswaldo052001)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oswaldo-choc)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oswaldo.choc@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oswaldo-choc)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/Oswaldo052001)
 
 </div>
 
-## 📈 Actividad en GitHub
+---
+
+## 📈 Mi Enfoque Profesional
+
+> **"La tecnología debe servir a las personas, no al revés."**
+
+Como docente aprendí que la mejor solución técnica es aquella que el usuario puede entender y utilizar. Por eso, en cada proyecto busco:
+
+1. 💻 **Excelencia Técnica** - Código limpio, eficiente y bien documentado
+2. 👥 **Enfoque en el Usuario** - Soluciones que las personas puedan usar
+3. 📚 **Documentación Clara** - Para que cualquiera pueda entender el sistema
+4. 🤝 **Colaboración** - Trabajo efectivo con equipos multidisciplinarios
+5. 📈 **Mejora Continua** - Siempre aprendiendo y actualizándome
+
+---
+
+## 🎓 Filosofía de Desarrollo
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[Análisis] --> B[Diseño]
+    B --> C[Implementación]
+    C --> D[Pruebas]
+    D --> E[Documentación]
+    E --> F[Capacitación]
+    F --> G[Soporte]
+    G --> A
+```
+
+</div>
+
+> "No solo desarrollo sistemas, los implemento y enseño a usarlos."
+
+---
+
+## 🌟 Valores Profesionales
+
+<div align="center">
+
+| Valor | Aplicación |
+|-------|-----------|
+| 🎯 **Compromiso** | Dedicación completa a cada proyecto |
+| 💡 **Innovación** | Búsqueda constante de mejores soluciones |
+| 🤝 **Colaboración** | Trabajo efectivo en equipo |
+| 📚 **Aprendizaje** | Actualización constante de conocimientos |
+| ✨ **Calidad** | Excelencia en cada línea de código |
+| 🇬🇹 **Servicio** | Compromiso con el desarrollo de Guatemala |
+
+</div>
+
+---
+
+## 🎯 Objetivo Profesional
+
+Busco contribuir al **Instituto Guatemalteco de Seguridad Social (IGSS)** como **Servicios Técnicos - Implementador**, donde pueda aplicar mis conocimientos en desarrollo de software, administración de bases de datos y mi experiencia en comunicación para:
+
+- ✅ Implementar soluciones tecnológicas eficientes
+- ✅ Capacitar a usuarios en el uso de sistemas
+- ✅ Documentar procesos técnicos de forma clara
+- ✅ Brindar soporte técnico de calidad
+- ✅ Contribuir a la modernización tecnológica del país
+
+---
+
+## 📊 Actividad Reciente
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-## 💡 Filosofía de Desarrollo
+---
 
-> "El código limpio no se escribe siguiendo un conjunto de reglas. No te conviertes en un artesano del software al aprender una lista de heurísticas. El profesionalismo y la artesanía provienen de los valores y la disciplina." - Robert C. Martin
+## 🏆 Logros Académicos
+
+- 🎓 Estudiante de 7mo semestre - Ingeniería en Ciencias y Sistemas (USAC)
+- 👨‍🏫 7 años de experiencia docente
+- 💻 Múltiples proyectos universitarios en diferentes áreas
+- 📚 Formación continua en tecnologías actuales
+- 🎯 Enfoque en desarrollo práctico y aplicable
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Oswaldo052001&color=blue&style=flat-square&label=Visitas+al+Perfil" alt="Profile views" />
   
-  ### ⭐ De estudiante de la USAC para la excelencia profesional ⭐
+  ### 🌟 "Transformando conocimiento en soluciones" 🌟
+  
+  **De estudiante de la USAC y docente apasionado, para la excelencia profesional en tecnología** 🚀
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
