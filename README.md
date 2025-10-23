@@ -1,4 +1,4 @@
-# 👋 Hola, soy Oswaldo Antonio Choc Cuteres
+#Oswaldo Antonio Choc Cuteres
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Ingeniero+en+Ciencias+y+Sistemas;Universidad+de+San+Carlos+de+Guatemala;Desarrollador+Full+Stack;Docente+de+Computaci%C3%B3n+y+Matem%C3%A1ticas;Apasionado+por+la+Tecnolog%C3%ADa" alt="Typing SVG" />
